@@ -1,6 +1,6 @@
 # structo-quiz
 
-Solutions to general software quiz parts 1 and 2 are in the socket and chain folders respectively.
+Solutions to general software quiz parts 1 and 2 are in the socket folder and chain.py respectively.
 
 Part 1 - Socket.io server:
 Upon receiving a 'message' event containing the plain text 'time-now', the server emits a 'time-response' event containing the current time. 
